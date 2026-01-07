@@ -1,6 +1,6 @@
 # Cave Diver Game
 
-A Java application that generates a cave and searches for an escape route.
+A Java application that generates a cave and searches for an escape route using a recursive algorithm.
 
 ## Run Locally
 
